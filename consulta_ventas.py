@@ -64,3 +64,4 @@ def buscar_venta():
 
     finally:
         print("Proceso de búsqueda finalizado\n")
+        print("Proceso de búsqueda Yahith G\n")
