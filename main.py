@@ -85,7 +85,7 @@ def menu():
 
         finally:
             # Siempre se ejecuta
-            print("Regresando al menú...\n")
+            print("Regresando al menú \n")
 
 
 # Punto de entrada del programa
